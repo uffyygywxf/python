@@ -5,5 +5,6 @@
 
 
 print("alert")
-print ("test")
-11
+print("test")
+n = 1 + 2
+print(n)
